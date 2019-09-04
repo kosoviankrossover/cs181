@@ -1,19 +1,3 @@
 Training History
 
-Epoch 0 - Current Best Score: 1
-
-Epoch 50 - Current Best Score: 4
-
-Epoch 100 - Current Best Score: 5
-
-Epoch 150 - Current Best Score: 5
-
-Epoch 200 - Current Best Score: 6
-
-Epoch 210 - Current Best Score: 10
-
-Epoch 220 - Current Best Score: 15
-
-Epoch 230 - Current Best Score: 20
-
-Epoch 240 - Current Best Score: 25
+Epoch 0 - Current Best Score: 0
